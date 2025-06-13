@@ -15,12 +15,12 @@ A simple and useful expense tracker for everyday use. Users can log, view and ma
 - **Authentication:** Clerk
 
 ## Screenshots
-![Home Page](screenshots/homepage.png)
-<br/>
-![Clerk Sign Up](screenshots/signup.png)
-<br/>
-![User Dashboard](screenshots/dashboard.png)
-<br/>
-![Adding Transaction](screenshots/addingtransaction.png)
-<br/>
+![Home Page](screenshots/homepage.png)<br/>
+
+![Clerk Sign Up](screenshots/signup.png)<br/>
+
+![User Dashboard](screenshots/dashboard.png)<br/>
+
+![Adding Transaction](screenshots/addingtransaction.png)<br/>
+
 ![Added Transaction](screenshots/addedtransaction.png)
