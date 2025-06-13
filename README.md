@@ -14,4 +14,9 @@ A simple and useful expense tracker for everyday use. Users can log, view and ma
 - **Database:** PostgreSQL, Neon
 - **Authentication:** Clerk
 
-  
+## Screenshots
+![Home Page](screenhots/homepage)
+![Clerk Sign Up](screenshots/signup)
+![User Dashboard](screenshots/dashboard)
+![Adding Transaction](screenshots/addingtransaction)
+![Added Transaction](screenshots/addedtransaction)
